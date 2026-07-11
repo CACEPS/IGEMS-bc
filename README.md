@@ -1,6 +1,6 @@
 # Reachability — Replication Package (Brief Communication)
 
-Replication code and data for **"Physical reachability constrains every fair allocation of the remaining carbon budget."**
+Replication code and data for **"No allocation of the remaining carbon budget is physically reachable for all regions: a feasibility screen for climate-policy proposals."**
 
 The result is closed-form. Each region has a feasibility floor `aᵢ^min = Eᵢ(1−dᵢ)^T` (eq 4); a budget is reachable by some allocation iff the summed floors do not exceed it (eq 6). The package provides two independent implementations that agree to the reported precision:
 
